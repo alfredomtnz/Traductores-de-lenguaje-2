@@ -1,2 +1,2 @@
-# Traductores-de-lenguaje-2
+# MINI GENERADOR LEXICO
 repositorio para la materia traductores de lenguaje 2
