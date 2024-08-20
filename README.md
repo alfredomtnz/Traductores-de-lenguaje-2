@@ -1,2 +1,7 @@
 # MINI GENERADOR LEXICO
-repositorio para la materia traductores de lenguaje 2
+# Objetivo:
+Genera un pequeño analizador léxico, que identifique los siguientes tokens (identificadores y números reales) construidos de la siguiente manera.
+identificadores = letra(letra|digito)*
+Real = entero.entero+
+# Lenguaje utilizado:
+c++
