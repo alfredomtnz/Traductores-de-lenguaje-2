@@ -1,2 +1,0 @@
-# Gramática del compilador
-
