@@ -1,0 +1,11 @@
+float hola, adios;
+int c;
+void funcion(int uno,  float dos){
+	int tres;
+
+	tres = 3;
+
+	uno = 2 + tres;
+return 1;
+}
+
