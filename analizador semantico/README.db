@@ -1,1 +1,51 @@
+# Etapa: Analizador semantico
+# Objetivo:
+Producto a subir.
+Código de tu analizador semántico.
+Reporte con captura de pantalla de la validación semántica de los siguientes códigos
+
+Ejemplo 1.
+int main(){
+float a;
+int b;
+int c;
+c = a+b;
+c = suma(8,9);
+}
+
+Ejemplo 2:
+int a;
+int suma(int a, int b){
+return a+b;
+}
+
+int main(){
+float a;
+int b;
+int c;
+c = a+b;
+c = suma(8.5,9.9);
+}
+# Lenguaje:
+c++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
